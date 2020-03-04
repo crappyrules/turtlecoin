@@ -1,4 +1,5 @@
-![image](https://imgur.com/QHy5qDa)
+![image](https://i.imgur.com/QHy5qDa.jpg)]
+Image credits: SUWALLS
 
 #### WitcherCoin is for tossing!
 
