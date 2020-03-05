@@ -383,7 +383,9 @@ namespace CryptoNote
         {0xc3, 0x1e, 0x5c, 0x8d, 0xdc, 0x38, 0x77, 0x71, 0x34, 0xc8, 0x9f, 0xc5, 0xc9, 0xa4, 0x33, 0xf7}};
 
     const char *const SEED_NODES[] = {
-        "138.201.159.93:11897", // white wolf's seed
-        "116.203.18.134:11999", // produces no offspring
+        "116.203.18.134:17877", // WitcherCoin seed 1 (EU)
+        "138.201.159.93:17877", // WitcherCoin seed 2 (EU)
+        // WitcherCoin seed nodes for US and ASIA PACIFIC areas 
+        // are planned for the near future
     };
 } // namespace CryptoNote
