@@ -71,7 +71,7 @@ function generate_tarball()
     tar --transform "s,^,$RELEASE_NAME/," -c -f $TARBALL -z -C "$CLONE_DIR/build/release/src" \
         miner \
         zedwallet \
-        TurtleCoind \
+        WitcherCoind \
         walletd
 
     generate_checksums $TARBALL
@@ -115,9 +115,9 @@ then
 fi
 
 # -- Config
-GITHUB_REPO="https://github.com/turtlecoin/turtlecoin.git"
-CLONE_DIR="$BUILD_DIRECTORY/turtlecoin-buildall"
-TARGET_DIR="$BUILD_DIRECTORY/turtlecoin-releases"
+GITHUB_REPO="https://github.com/fountainpositive/witchercoin.git"
+CLONE_DIR="$BUILD_DIRECTORY/witchercoin-buildall"
+TARGET_DIR="$BUILD_DIRECTORY/witchercoin-releases"
 DYNAMIC_RELEASE="turtlecoin-${TAG_VERSION}-linux-CLI"
 STATIC_RELEASE="turtlecoin-${TAG_VERSION}-linux-staticboost-CLI"
 

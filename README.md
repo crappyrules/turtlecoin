@@ -3,7 +3,9 @@
 
 ## WitcherCoin is for tossing
 
-You need to toss a coin to your Witcher or else the monsters will stop your blockchain. So, toss a coin to your witcher o valley of plenty.
+You need to toss a coin to your Witcher or else the monsters will stop your blockchain. 
+So, toss a coin to your witcher o valley of plenty.
+
 
 
 ### All the love to the following developers
