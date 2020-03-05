@@ -1,3 +1,7 @@
+## WitcherCoin
+
+&nbsp;
+
 ![image](https://i.imgur.com/23ikiTv.jpg)
 - Image credits: SUWALLS
 
@@ -6,7 +10,7 @@
 You need to toss a coin to your Witcher or else the monsters will stop your blockchain. 
 So, toss a coin to your witcher o valley of plenty.
 
-
+&nbsp;
 
 ### All the love to the following developers
 
@@ -17,6 +21,8 @@ So, toss a coin to your witcher o valley of plenty.
 //
 // Please see the included LICENSE file for more information.
 ```
+
+&nbsp;
 
 ### All the love to contributing projects
 
